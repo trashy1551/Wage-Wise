@@ -1,5 +1,7 @@
 # Wage Wise - Personal Paycheck Calculator
 
+[Back to Home](/)
+
 ## App Overview
 
 Wage Wise is a comprehensive personal finance tool designed specifically for hourly workers to track, calculate, and optimize their paycheck earnings. Built with a focus on simplicity and accuracy, the app helps users understand their complete compensation picture including overtime, pay raises, and yearly forecasts.

@@ -1,4 +1,4 @@
-## ð Privacy Policy
+## Privacy Policy
 
 ### Data Collection
 **Wage Wise does not collect, store, or transmit any personal information.** All payroll calculations and data are stored locally on your device using secure local storage. We have no access to your financial information.
@@ -46,18 +46,18 @@ If you have any questions about this Privacy Policy or Wage Wise's privacy pract
 
 ---
 
-## ð¥ Download & Installation
+## Download & Installation
 
 Wage Wise is available on the iOS App Store. Simply search for "Wage Wise" or scan the QR code to download the app to your iPhone or iPad.
 
-## ð Tips for Best Results
+## Tips for Best Results
 
 - **Regular Updates**: Keep your overtime entries up to date for accurate forecasts
 - **Pay Rate History**: Add salary increases to maintain accurate long-term projections
 - **Backup Regularly**: Export your data periodically for safekeeping
 - **Year-End Review**: Use the yearly forecast features to plan your financial goals
 
-## ð Perfect For
+## Perfect For
 
 - **Hourly Workers**: Track your earnings and overtime accurately
 - **Shift Workers**: Manage variable schedules and pay rates

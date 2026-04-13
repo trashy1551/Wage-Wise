@@ -1,5 +1,7 @@
 ## Privacy Policy
 
+[Back to Home](/)
+
 ### Data Collection
 **Wage Wise does not collect, store, or transmit any personal information.** All payroll calculations and data are stored locally on your device using secure local storage. We have no access to your financial information.
 

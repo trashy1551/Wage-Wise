@@ -13,7 +13,7 @@ Wage Wise is a comprehensive personal finance tool designed specifically for hou
 - **Pay Rate History**: Track salary increases over time with automatic effective date calculations
 
 ### ð Financial Planning
-- **Log Overtime)): Log overtime hours worked using calendar for easy date selection. Include number of hours work and optional description
+- **Log Overtime**: Log overtime hours worked using calendar for easy date selection. Include number of hours work and optional description
 - **Paycheck Forecast**: Real-time overview of current pay rates, multipliers, and base pay per paycheck
 - **Yearly Forecasts**: Comprehensive annual earnings projections with month-by-month breakdown
 - **Year-over-Year Comparisons**: Compare earnings and hours between current and previous years

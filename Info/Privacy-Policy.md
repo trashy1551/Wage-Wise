@@ -1,7 +1,12 @@
 ## Privacy Policy
 
-### Data Collection
-**Wage Wise does not collect, store, or transmit any personal information.** All payroll calculations and data are stored locally on your device using secure local storage. We have no access to your financial information.
+### Data Collection & Usage
+Wage Wise is built with a local-first architecture to protect your privacy. We do not collect, store, or transmit your financial information or payroll data off your device. 
+
+The only personal information we collect is your **Email Address** (such as your Apple account email) when you initiate communication with us or sign up for updates. 
+- **Purpose:** We use this email address strictly for user communication, support, and necessary administrative updates.
+- **Retention:** Your email is stored securely on our communication servers and is never sold, rented, or shared with third-party marketers.
+- ** All payroll calculations and data are stored locally on your device using secure local storage. We have no access to your financial information.
 
 ### Local Storage
 Your payroll information including:
